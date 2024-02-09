@@ -1,0 +1,14 @@
+.btn-grp{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+.btn-grp a{
+    text-decoration: none;
+    display: block;
+    background-color: #387ed1;
+    border-radius: 5px;
+    cursor: pointer;
+    color: whitesmoke;
+    padding: 10px 20px;
+}
